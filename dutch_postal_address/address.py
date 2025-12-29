@@ -1,7 +1,3 @@
-"""
-Core address classes and parsing functionality.
-"""
-
 import re
 from typing import List, Dict, Any, Optional
 from dataclasses import dataclass

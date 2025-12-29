@@ -1,8 +1,3 @@
-"""
-Address validation functions.
-Implements the exact API specified in the requirements.
-"""
-
 import re
 from typing import List
 from .address import Address, DutchAddressHandler

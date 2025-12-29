@@ -1,7 +1,3 @@
-"""
-Address correction functionality with fuzzy matching.
-"""
-
 from typing import List, Optional, Set
 import re
 from difflib import get_close_matches

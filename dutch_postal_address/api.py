@@ -1,8 +1,3 @@
-"""
-REST API server for address validation and correction.
-Uses FastAPI as specified in requirements.
-"""
-
 from fastapi import FastAPI, HTTPException, Query
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel

@@ -1,8 +1,3 @@
-"""
-Data loader for Dutch postal address files.
-Handles different delimiters and builds optimized indexes.
-"""
-
 import re
 from typing import Dict, List, Set, Optional, DefaultDict
 from collections import defaultdict

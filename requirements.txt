@@ -1,0 +1,9 @@
+
+# Core dependencies
+fastapi>=0.104.0
+uvicorn>=0.24.0
+pydantic>=2.4.0
+
+# Optional for better fuzzy matching
+# python-Levenshtein>=0.21.0
+# rapidfuzz>=3.0.0
